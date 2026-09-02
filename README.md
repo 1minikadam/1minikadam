@@ -1,51 +1,52 @@
-👋 Hi, I'm 1minikadam
+# 👋 Hi, I'm 1minikadam
 
-🎨 3D Artist & Designer | Blender | 3D Printing
+### 🎨 3D Artist & Designer · Blender · 3D Printing
 
-I am a 3D artist and designer focused on creating digital 3D models, characters, products and printable designs.
-
-I work primarily with Blender and resin 3D printing, turning ideas and concepts into detailed physical models.
+I create **digital 3D models, characters, products and print-ready designs**. My workflow combines Blender-based modeling with resin 3D printing to turn ideas into detailed physical objects.
 
 ---
 
-🧩 What I Do
+## 🧩 What I Do
 
-- 🧊 3D Modeling & Digital Sculpting
-- 🎨 Character & Figurine Design
-- 🖨️ Resin 3D Printing
-- ⚙️ Product & Prototype Design
-- 🏛️ Architectural 3D Modeling
-- 🔧 Model Optimization for 3D Printing
-- 📐 Preparing models for manufacturing
-
----
-
-🛠️ Tools & Technologies
-
-3D & Design
-
-- Blender
-- FreeCAD
-- AutoCAD
-
-3D Printing
-
-- Resin 3D Printing
-- Chitubox
-- Cura
-- STL Preparation & Optimization
+| | Area | Focus |
+|---|---|---|
+| 🧊 | **3D Modeling** | Modeling, sculpting & mesh cleanup |
+| 🎨 | **Character Design** | Figurines, collectibles & game-inspired models |
+| 🖨️ | **3D Printing** | Resin printing & print preparation |
+| ⚙️ | **Product Design** | Custom parts, prototypes & functional models |
+| 🏛️ | **Architectural Modeling** | Buildings, details & presentation models |
+| 🔧 | **Print Optimization** | Supports, wall thickness, orientation & STL preparation |
 
 ---
 
-🚀 Current Focus
+## 🛠️ Tools & Technologies
 
-I'm currently developing my skills in 3D modeling, digital sculpting, product design and 3D printing, while building a portfolio of original models and physical creations.
+### 3D & Design
+
+![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-CAD-blue)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-CAD-red)
+
+### 3D Printing
+
+![Resin Printing](https://img.shields.io/badge/Resin-3D%20Printing-purple)
+![Chitubox](https://img.shields.io/badge/Chitubox-Slicing-blue)
+![Cura](https://img.shields.io/badge/Cura-Slicing-1f9ad6)
+![STL](https://img.shields.io/badge/STL-Optimization-lightgrey)
 
 ---
 
-📂 Projects
+## 🚀 Current Focus
 
-This profile will be used to showcase my:
+I'm continuously improving my skills in **3D modeling, digital sculpting, product design and 3D printing** while building a portfolio of original digital and physical creations.
+
+**My goal:** create models that look great digitally and work reliably in the real world.
+
+---
+
+## 📂 Projects
+
+I'm building this profile to showcase:
 
 - 🧸 Character & collectible figures
 - ⚽ Sports-themed models
@@ -54,29 +55,24 @@ This profile will be used to showcase my:
 - 🛠️ Custom 3D projects
 - 🖨️ 3D-printable models
 
----
-
-📫 Let's Connect
-
-I'm interested in 3D modeling, product design, 3D printing and creative collaborations.
-
-GitHub: "@1minikadam" (https://github.com/1minikadam)
+> 🚧 More projects will be added as the portfolio grows.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📈 GitHub Activity
 
-<!--
-**1minikadam/1minikadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1minikadam&show_icons=true&hide_border=true&theme=transparent)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1minikadam&layout=compact&hide_border=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect
+
+I'm interested in **3D modeling, product design, 3D printing and creative collaborations**.
+
+**GitHub:** [@1minikadam](https://github.com/1minikadam)
+
+---
+
+⭐ **Thanks for visiting my profile!**
