@@ -64,7 +64,7 @@ GitHub: "@1minikadam" (https://github.com/1minikadam)
 
 ---
 
-⭐ Thanks for visiting my profile!# Hi there 👋
+⭐ Thanks for visiting my profile!
 
 <!--
 **1minikadam/1minikadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
